@@ -6,12 +6,14 @@ The purpose of the project was to perform stock performance analysis of 12 diffe
 ## Results
 ### Refactored coding times for 2017 and 2018 are shown below:
 ![alt text](https://github.com/bwengerDU/stock-analysis/blob/main/VBA_Challenge_2017.png?raw=true)
+
 ![alt text](https://github.com/bwengerDU/stock-analysis/blob/main/VBA_Challenge_2018.png?raw=true)
 
 The refactored code ran over four times more quickly to produce the information. In 2017 the original code ran in 0.289 seconds and 0.285 for 2018. 
 
 ### Refactored code
 The code used to produce the results in the stock analysis is shown below. The highlighted code lines are the codes I developed in order to refactor and produce the faster processing code. The various notes within the code are to highlight and address a direct prompt required by the project that guided my coding. 
+
 ![alt text](https://github.com/bwengerDU/stock-analysis/blob/main/Refactor Coding.png?raw=true)
 
 ## Summary
